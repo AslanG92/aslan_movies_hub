@@ -1,0 +1,18 @@
+[
+    {
+        "_id": 1,
+        "titleImg": "../assets/movies/watchmen_title.png",
+        "bgImg": "../assets/movies/bg-watchmen.jpg",
+        "previewImg": "../assets/movies/whatchmen.jpeg",
+        "video": "https://youtu.be/wglmbroElU0",
+        "title": "Watchmen",
+        "year": "2009",
+        "date": "23th February",
+        "ageLimit": "18+",
+        "length": "2h 42min",
+        "category": "fantasy, action, drama, detective",
+        "type": "released",
+        "description": "The film is set in a parallel reality, in 1985 America. In this world, superheroes have become part of everyday life, and the Doomsday Clock, frozen at five minutes to midnight, counts down to a clash between the world's leading powers. After the murder of one of his former colleagues, Rorschach—a superhero who never takes off his mask—is determined to carry out lynchings.He begins investigating a conspiracy designed to destroy or discredit all superheroes, past and present. He gathers his allies—a retired legion of crime fighters—but only one possesses true power. Gradually, Rorschach realizes the terrifying scope of the conspiracy, linked to the heroes' shared past and threatening catastrophic consequences for the future. They guard our peace, but who will protect us from the Watchmen?",
+        "active": true
+    }
+]

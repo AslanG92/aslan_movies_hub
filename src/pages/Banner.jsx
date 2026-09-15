@@ -1,7 +1,12 @@
 import React, { useState, useEffect } from "react";
 import "./banner.css";
+import bgImg from "../images/bg-watchmen.jpg";
+import MovieContent from "../components/MovieContent";
+import MovieDate from "../components/MovieDate";
+import PlayBtn from "../components/PlayBtn";
 
 function Banner() {
+  // eslint-disable-next-line no-unused-vars
   const [movies, setMovies] = useState([]);
 
   const fetchData = () => {
@@ -18,7 +23,19 @@ function Banner() {
   return (
     <div className="banner">
       <div className="movie">
-        {/* <img src="" alt="Background Image" className="bgImg" /> */}
+        <img src={bgImg} alt="Background Img" className="bgImg active" />
+        <div className="container-fluid">
+          <div className="row">
+            <div className="col-lg-6 col-md-12">
+              <MovieContent />
+            </div>
+
+            <div className="col-lg-6 col-md-12">
+              <MovieDate />
+              <PlayBtn />
+            </div>
+          </div>
+        </div>
       </div>
     </div>
   );
