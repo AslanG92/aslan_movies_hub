@@ -1,6 +1,6 @@
 import React from "react";
 import "./movieContent.css";
-import titleImg from "../images/watchmen_title.png";
+import titleImg from "../images/ррр.png";
 import Button from "./Button";
 import { Bookmark } from "lucide-react";
 import { Plus } from "lucide-react";
