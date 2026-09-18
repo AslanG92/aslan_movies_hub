@@ -1,12 +1,12 @@
 import React from "react";
 import "./movieDate.css";
 
-function MovieDate() {
-  return (
-    <div className="date active">
-      <h2>on 9th August</h2>
-    </div>
-  );
+function MovieDate({ movie }) {
+    return (
+        <div className={`date ${movie.active ? "active" : undefined}`}>
+            <h2>{movie.date}</h2>
+        </div>
+    );
 }
 
 export default MovieDate;

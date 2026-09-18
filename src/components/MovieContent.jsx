@@ -1,43 +1,29 @@
 import React from "react";
 import "./movieContent.css";
-import titleImg from "../images/watchmen_title.png";
 import Button from "./Button";
 import { Bookmark } from "lucide-react";
 import { Plus } from "lucide-react";
 
-function MovieContent() {
-  return (
-    <div className="content active">
-      <img src={titleImg} alt="Movie Title" className="movie-title" />
-      <h4>
-        <span>Year</span>
-        <span>
-          <i>age</i>
-        </span>
-        <span>length</span>
-        <span>category</span>
-      </h4>
+function MovieContent({ movie }) {
+    return (
+        <div className={`content ${movie.active ? "active" : undefined}`}>
+            <img src={movie.titleImg} alt="Movie Title" className="movie-title" />
 
-      <p>
-        Lorem ipsum, dolor sit amet consectetur adipisicing elit. Quidem nisi ut
-        quis voluptatibus beatae cupiditate fugit sint tenetur dolor maiores eos
-        hic sit velit, eum ullam aliquam deleniti, quibusdam iste consectetur
-        dignissimos! Soluta voluptas a quis quod aliquam blanditiis perferendis
-        doloribus voluptates corporis explicabo quisquam, in iure? Eaque, odit
-        assumenda?
-      </p>
+            <h4>
+                <span>{movie.year}</span>
+                <span><i>{movie.ageLimit}</i></span>
+                <span>{movie.length}</span>
+                <span>{movie.category}</span>
+            </h4>
 
-      <div className="button">
-        <Button
-          icon={<Bookmark />}
-          name="Book"
-          color="#ff3700"
-          bgColor="#fff"
-        />
-        <Button icon={<Plus />} name="My List" />
-      </div>
-    </div>
-  );
+            <p>{movie.description}</p>
+
+            <div className="button">
+                <Button icon={<Bookmark />} name="Book" color="#ff3700" bgColor="#fff" />
+                <Button icon={<Plus />} name="My List" />
+            </div>
+        </div>
+    );
 }
 
 export default MovieContent;

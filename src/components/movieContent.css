@@ -6,6 +6,7 @@
     transform: scale(0);
     transition: 1s;
     z-index: 1000;
+    margin-bottom: 100px;
 
     .movie-title {
         max-width: 250px;
@@ -18,8 +19,10 @@
         font-size: 24px;
 
         span {
+            display: inline-block;
             padding: 0 10px;
             border-right: 1px solid rgba(255, 255, 255, 0.6);
+            text-transform: capitalize;
 
             i {
                 background: var(--primary);
