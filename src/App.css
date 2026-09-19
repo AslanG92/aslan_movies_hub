@@ -1,21 +1,19 @@
-@import url("https://fonts.googleapis.com/css2?family=Playpen+Sans:wght@100..800&family=Racing+Sans+One&display=swap");
-
 :root {
-    --primary: #ff3700;
+	--primary: #ff3700;
 }
 
 * {
-    margin: 0;
-    padding: 0;
-    box-sizing: border-box;
-    scroll-behavior: smooth;
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	scroll-behavior: smooth;
 }
 
 body {
-    background-color: #000;
-    font-family: "Playpen Sans", cursive;
+	background-color: #000;
+	font-family: "Playpen Sans", cursive;
 
-    &::-webkit-scrollbar {
-        display: none;
-    }
+	&::-webkit-scrollbar {
+		display: none;
+	}
 }

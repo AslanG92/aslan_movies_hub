@@ -7,22 +7,22 @@ import { LogIn } from "lucide-react";
 import Button from "../components/Button";
 
 function Header() {
-  return (
-    <header>
-      <a href="/" className="logo">
-        Cinema
-      </a>
+	return (
+		<header>
+			<a href="/" className="logo">
+				Cinema
+			</a>
 
-      <ul className="nav">
-        {navListData.map((nav) => (
-          <NavListItem key={nav._id} nav={nav} />
-        ))}
-      </ul>
+			<ul className="nav">
+				{navListData.map((nav) => (
+					<NavListItem key={nav._id} nav={nav} />
+				))}
+			</ul>
 
-      <Search />
-      <Button icon={<LogIn />} name="Sign In" />
-    </header>
-  );
+			<Search />
+			<Button icon={<LogIn />} name="Sign In" />
+		</header>
+	);
 }
 
 export default Header;
