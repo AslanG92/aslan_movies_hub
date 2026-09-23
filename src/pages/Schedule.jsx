@@ -47,7 +47,7 @@ function Schedule() {
 		<section id="schedule" className="schedule">
 			<div className="container-fluid">
 				<div className="row">
-					<h2 className="section-title">Opening this week</h2>
+					<h2 className="section-title">Select your movie </h2>
 				</div>
 
 				<div className="row">

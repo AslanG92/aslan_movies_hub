@@ -1,0 +1,84 @@
+.footer {
+	background: transparent;
+	padding: 0 0 30px 0;
+	font-size: 14px;
+}
+
+.footer .footer-top {
+	background: url(../images/fotter_bg.webp) no-repeat left top;
+	background-size: contain;
+	border-top: 1px solid var(--primary);
+	border-bottom: 1px solid rgba(255, 255, 255, 0.25);
+	padding: 60px 0 30px 0;
+}
+
+.footer .footer-top .footer-info {
+	margin-top: 130px;
+}
+
+.footer .footer-top .footer-info .logo {
+	margin-bottom: 5px;
+}
+
+
+.footer .footer-top .footer-info .logo span {
+	font-size: 30px;
+	font-weight: 900;
+	letter-spacing: 1px;
+	margin-top: 3px;
+	color: #fff;
+}
+
+.footer .footer-top .footer-info p {
+	color: #fff;
+	font-size: 14px;
+}
+
+.footer .footer-top .social-links a {
+	font-size: 1.5rem;
+	display: inline-block;
+	color: #fff;
+	line-height: 0;
+	margin-right: 15px;
+	transition: 0.3s;
+	text-decoration: none;
+
+	&:hover {
+		color: var(--primary);
+	}
+
+}
+
+.footer .footer-top h3 {
+	font-size: 16px;
+	font-weight: 900;
+	color: #fff;
+	text-transform: uppercase;
+	text-decoration: underline;
+	position: relative;
+	padding-bottom: 12px;
+}
+
+.footer .footer-top .footer-contact p {
+	line-height: 26px;
+	color: #fff;
+	font-weight: 200;
+}
+
+.footer .copyright {
+	text-align: center;
+	padding-top: 30px;
+	color: #fff;
+}
+
+.footer .credits {
+	padding-top: 10px;
+	text-align: center;
+	font-size: 13px;
+	color: #fff;
+}
+
+.footer .credits a {
+	text-decoration: none;
+	color: var(--primary);
+}

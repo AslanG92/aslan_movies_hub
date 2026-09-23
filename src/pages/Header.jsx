@@ -1,3 +1,4 @@
+/* eslint-disable jsx-a11y/anchor-is-valid */
 import React from "react";
 import "./header.css";
 import NavListItem from "../components/NavListItem";
@@ -9,7 +10,7 @@ import Button from "../components/Button";
 function Header() {
 	return (
 		<header>
-			<a href="/" className="logo">
+			<a href="#" className="logo">
 				Cinema
 			</a>
 
