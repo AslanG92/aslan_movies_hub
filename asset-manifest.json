@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/aslan_movies_hub/static/css/main.884e4740.css",
-    "main.js": "/aslan_movies_hub/static/js/main.3bb9d44c.js",
+    "main.js": "/aslan_movies_hub/static/js/main.7576dbf8.js",
     "static/js/453.a7849d92.chunk.js": "/aslan_movies_hub/static/js/453.a7849d92.chunk.js",
     "static/media/fotter_bg.webp": "/aslan_movies_hub/static/media/fotter_bg.eedd44d0a1a1de152ca5.webp",
     "index.html": "/aslan_movies_hub/index.html",
     "main.884e4740.css.map": "/aslan_movies_hub/static/css/main.884e4740.css.map",
-    "main.3bb9d44c.js.map": "/aslan_movies_hub/static/js/main.3bb9d44c.js.map",
+    "main.7576dbf8.js.map": "/aslan_movies_hub/static/js/main.7576dbf8.js.map",
     "453.a7849d92.chunk.js.map": "/aslan_movies_hub/static/js/453.a7849d92.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.884e4740.css",
-    "static/js/main.3bb9d44c.js"
+    "static/js/main.7576dbf8.js"
   ]
 }
