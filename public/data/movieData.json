@@ -1,9 +1,9 @@
 [
 	{
 		"_id": 1,
-		"titleImg": "../assets/movies/watchmen_title.png",
-		"bgImg": "../assets/movies/bg-watchmen.jpg",
-		"previewImg": "../assets/movies/watchmen.webp",
+		"titleImg": "/aslan_movies_hub/assets/movies/watchmen_title.png",
+		"bgImg": "/aslan_movies_hub/assets/movies/bg-watchmen.jpg",
+		"previewImg": "/aslan_movies_hub/assets/movies/watchmen.webp",
 		"video": "https://www.youtube.com/embed/wglmbroElU0",
 		"title": "Watchmen",
 		"year": "2009",
@@ -18,9 +18,9 @@
 
 	{
 		"_id": 2,
-		"titleImg": "../assets/movies/300_rise_title.webp",
-		"bgImg": "../assets/movies/bg_300_rise.jpeg",
-		"previewImg": "../assets/movies/300_rise.webp",
+		"titleImg": "/aslan_movies_hub/assets/movies/300_rise_title.webp",
+		"bgImg": "/aslan_movies_hub/assets/movies/bg_300_rise.jpeg",
+		"previewImg": "/aslan_movies_hub/assets/movies/300_rise.webp",
 		"video": "https://www.youtube.com/embed/2zqy21Z29ps",
 		"title": "300: Rise of an Empire",
 		"year": "2014",
@@ -35,9 +35,9 @@
 
 	{
 		"_id": 3,
-		"titleImg": "../assets/movies/300_title.png",
-		"bgImg": "../assets/movies/bg_300.jpg",
-		"previewImg": "../assets/movies/300.jpg",
+		"titleImg": "/aslan_movies_hub/assets/movies/300_title.png",
+		"bgImg": "/aslan_movies_hub/assets/movies/bg_300.jpg",
+		"previewImg": "/aslan_movies_hub/assets/movies/300.jpg",
 		"video": "https://www.youtube.com/embed/UrIbxk7idYA",
 		"title": "300",
 		"year": "2006",
@@ -52,9 +52,9 @@
 
 	{
 		"_id": 4,
-		"titleImg": "../assets/movies/apes_title.png",
-		"bgImg": "../assets/movies/bg_apes.webp",
-		"previewImg": "../assets/movies/apes.webp",
+		"titleImg": "/aslan_movies_hub/assets/movies/apes_title.png",
+		"bgImg": "/aslan_movies_hub/assets/movies/bg_apes.webp",
+		"previewImg": "/aslan_movies_hub/assets/movies/apes.webp",
 		"video": "https://www.youtube.com/embed/UEP1Mk6Un98",
 		"title": "War for the Planet of the Apes",
 		"year": "2017",
@@ -69,9 +69,9 @@
 
 	{
 		"_id": 5,
-		"titleImg": "../assets/movies/avengers_title.png",
-		"bgImg": "../assets/movies/bg_avengers.webp",
-		"previewImg": "../assets/movies/avengers.webp",
+		"titleImg": "/aslan_movies_hub/assets/movies/avengers_title.png",
+		"bgImg": "/aslan_movies_hub/assets/movies/bg_avengers.webp",
+		"previewImg": "/aslan_movies_hub/assets/movies/avengers.webp",
 		"video": "https://www.youtube.com/embed/L2NAh3CIdig",
 		"title": "Avengers: Endgame encore",
 		"year": "2026",
@@ -86,9 +86,9 @@
 
 	{
 		"_id": 6,
-		"titleImg": "../assets/movies/b_bad_title.webp",
-		"bgImg": "../assets/movies/bg_b_bad.webp",
-		"previewImg": "../assets/movies/b_bad.webp",
+		"titleImg": "/aslan_movies_hub/assets/movies/b_bad_title.webp",
+		"bgImg": "/aslan_movies_hub/assets/movies/bg_b_bad.webp",
+		"previewImg": "/aslan_movies_hub/assets/movies/b_bad.webp",
 		"video": "https://www.youtube.com/embed/XZ8daibM3AE",
 		"title": "Breaking Bad",
 		"year": "2008",
@@ -103,9 +103,9 @@
 
 	{
 		"_id": 7,
-		"titleImg": "../assets/movies/b_vs_s_title.png",
-		"bgImg": "../assets/movies/bg_b_vs_s.webp",
-		"previewImg": "../assets/movies/b_vs_s.webp",
+		"titleImg": "/aslan_movies_hub/assets/movies/b_vs_s_title.png",
+		"bgImg": "/aslan_movies_hub/assets/movies/bg_b_vs_s.webp",
+		"previewImg": "/aslan_movies_hub/assets/movies/b_vs_s.webp",
 		"video": "https://www.youtube.com/embed/0WWzgGyAH6Y",
 		"title": "Batman v Superman: Dawn of Justice",
 		"year": "2016",
@@ -120,9 +120,9 @@
 
 	{
 		"_id": 8,
-		"titleImg": "../assets/movies/boys_title.png",
-		"bgImg": "../assets/movies/bg_boys.webp",
-		"previewImg": "../assets/movies/boys.webp",
+		"titleImg": "/aslan_movies_hub/assets/movies/boys_title.png",
+		"bgImg": "/aslan_movies_hub/assets/movies/bg_boys.webp",
+		"previewImg": "/aslan_movies_hub/assets/movies/boys.webp",
 		"video": "https://www.youtube.com/embed/M1bhOaLV4FU",
 		"title": "The Boys",
 		"year": "2019",
@@ -137,9 +137,9 @@
 
 	{
 		"_id": 9,
-		"titleImg": "../assets/movies/brooklyn_title.png",
-		"bgImg": "../assets/movies/bg_brooklyn.webp",
-		"previewImg": "../assets/movies/brooklyn.webp",
+		"titleImg": "/aslan_movies_hub/assets/movies/brooklyn_title.png",
+		"bgImg": "/aslan_movies_hub/assets/movies/bg_brooklyn.webp",
+		"previewImg": "/aslan_movies_hub/assets/movies/brooklyn.webp",
 		"video": "https://www.youtube.com/embed/sEOuJ4z5aTc",
 		"title": "Brooklyn Nine-Nine",
 		"year": "2013",
@@ -154,9 +154,9 @@
 
 	{
 		"_id": 10,
-		"titleImg": "../assets/movies/d_and_w_title.png",
-		"bgImg": "../assets/movies/bg_d_and_w.webp",
-		"previewImg": "../assets/movies/d_and_w.webp",
+		"titleImg": "/aslan_movies_hub/assets/movies/d_and_w_title.png",
+		"bgImg": "/aslan_movies_hub/assets/movies/bg_d_and_w.webp",
+		"previewImg": "/aslan_movies_hub/assets/movies/d_and_w.webp",
 		"video": "https://www.youtube.com/embed/73_1biulkYk",
 		"title": "Deadpool & Wolverine",
 		"year": "2024",
@@ -171,9 +171,9 @@
 
 	{
 		"_id": 11,
-		"titleImg": "../assets/movies/dead_title.png",
-		"bgImg": "../assets/movies/bg_dead.webp",
-		"previewImg": "../assets/movies/dead.webp",
+		"titleImg": "/aslan_movies_hub/assets/movies/dead_title.png",
+		"bgImg": "/aslan_movies_hub/assets/movies/bg_dead.webp",
+		"previewImg": "/aslan_movies_hub/assets/movies/dead.webp",
 		"video": "https://www.youtube.com/embed/m1lZWAwC5Bw",
 		"title": "The Walking Dead",
 		"year": "2010",
@@ -188,9 +188,9 @@
 
 	{
 		"_id": 12,
-		"titleImg": "../assets/movies/deadpool_title.png",
-		"bgImg": "../assets/movies/bg_deadpool.webp",
-		"previewImg": "../assets/movies/deadpool.webp",
+		"titleImg": "/aslan_movies_hub/assets/movies/deadpool_title.png",
+		"bgImg": "/aslan_movies_hub/assets/movies/bg_deadpool.webp",
+		"previewImg": "/aslan_movies_hub/assets/movies/deadpool.webp",
 		"video": "https://www.youtube.com/embed/Xithigfg7dA",
 		"title": "Deadpool",
 		"year": "2016",
@@ -205,9 +205,9 @@
 
 	{
 		"_id": 13,
-		"titleImg": "../assets/movies/deadpool2_title.png",
-		"bgImg": "../assets/movies/bg_deadpool2.webp",
-		"previewImg": "../assets/movies/deadpool2.webp",
+		"titleImg": "/aslan_movies_hub/assets/movies/deadpool2_title.png",
+		"bgImg": "/aslan_movies_hub/assets/movies/bg_deadpool2.webp",
+		"previewImg": "/aslan_movies_hub/assets/movies/deadpool2.webp",
 		"video": "https://www.youtube.com/embed/20bpjtCbCz0",
 		"title": "Deadpool 2",
 		"year": "2018",
@@ -222,9 +222,9 @@
 
 	{
 		"_id": 14,
-		"titleImg": "../assets/movies/django_title.png",
-		"bgImg": "../assets/movies/bg_django.webp",
-		"previewImg": "../assets/movies/django.webp",
+		"titleImg": "/aslan_movies_hub/assets/movies/django_title.png",
+		"bgImg": "/aslan_movies_hub/assets/movies/bg_django.webp",
+		"previewImg": "/aslan_movies_hub/assets/movies/django.webp",
 		"video": "https://www.youtube.com/embed/2dY7Ad9YhEk",
 		"title": "Django Unchained",
 		"year": "2012",
@@ -239,9 +239,9 @@
 
 	{
 		"_id": 15,
-		"titleImg": "../assets/movies/dogs_title.png",
-		"bgImg": "../assets/movies/bg_dogs.webp",
-		"previewImg": "../assets/movies/dogs.webp",
+		"titleImg": "/aslan_movies_hub/assets/movies/dogs_title.png",
+		"bgImg": "/aslan_movies_hub/assets/movies/bg_dogs.webp",
+		"previewImg": "/aslan_movies_hub/assets/movies/dogs.webp",
 		"video": "https://www.youtube.com/embed/vayksn4Y93A",
 		"title": "Reservoir Dogs",
 		"year": "1992",
@@ -256,9 +256,9 @@
 
 	{
 		"_id": 16,
-		"titleImg": "../assets/movies/doomsday_title.png",
-		"bgImg": "../assets/movies/bg_doomsday.webp",
-		"previewImg": "../assets/movies/doomsday.webp",
+		"titleImg": "/aslan_movies_hub/assets/movies/doomsday_title.png",
+		"bgImg": "/aslan_movies_hub/assets/movies/bg_doomsday.webp",
+		"previewImg": "/aslan_movies_hub/assets/movies/doomsday.webp",
 		"video": "https://www.youtube.com/embed/irVNGjRFZGk",
 		"title": "Avengers: Doomsday",
 		"year": "2026",
@@ -273,9 +273,9 @@
 
 	{
 		"_id": 17,
-		"titleImg": "../assets/movies/due_date_title.png",
-		"bgImg": "../assets/movies/bg_due_date.webp",
-		"previewImg": "../assets/movies/due_date.webp",
+		"titleImg": "/aslan_movies_hub/assets/movies/due_date_title.png",
+		"bgImg": "/aslan_movies_hub/assets/movies/bg_due_date.webp",
+		"previewImg": "/aslan_movies_hub/assets/movies/due_date.webp",
 		"video": "https://www.youtube.com/embed/hEtu68oxBfc",
 		"title": "Due Date",
 		"year": "2010",
@@ -290,9 +290,9 @@
 
 	{
 		"_id": 18,
-		"titleImg": "../assets/movies/eight_title.png",
-		"bgImg": "../assets/movies/bg_eight.webp",
-		"previewImg": "../assets/movies/eight.webp",
+		"titleImg": "/aslan_movies_hub/assets/movies/eight_title.png",
+		"bgImg": "/aslan_movies_hub/assets/movies/bg_eight.webp",
+		"previewImg": "/aslan_movies_hub/assets/movies/eight.webp",
 		"video": "https://www.youtube.com/embed/nIOmotayDMY",
 		"title": "The Hateful Eight",
 		"year": "2015",
@@ -307,9 +307,9 @@
 
 	{
 		"_id": 19,
-		"titleImg": "../assets/movies/friends_title.webp",
-		"bgImg": "../assets/movies/bg_friends.webp",
-		"previewImg": "../assets/movies/friends.webp",
+		"titleImg": "/aslan_movies_hub/assets/movies/friends_title.webp",
+		"bgImg": "/aslan_movies_hub/assets/movies/bg_friends.webp",
+		"previewImg": "/aslan_movies_hub/assets/movies/friends.webp",
 		"video": "https://www.youtube.com/embed/8wThS5WCzs4",
 		"title": "Friends",
 		"year": "1994",
@@ -324,9 +324,9 @@
 
 	{
 		"_id": 20,
-		"titleImg": "../assets/movies/got_title.png",
-		"bgImg": "../assets/movies/bg_got.webp",
-		"previewImg": "../assets/movies/got.webp",
+		"titleImg": "/aslan_movies_hub/assets/movies/got_title.png",
+		"bgImg": "/aslan_movies_hub/assets/movies/bg_got.webp",
+		"previewImg": "/aslan_movies_hub/assets/movies/got.webp",
 		"video": "https://www.youtube.com/embed/KPLWWIOCOOQ",
 		"title": "Game of Thrones",
 		"year": "2011",
@@ -341,9 +341,9 @@
 
 	{
 		"_id": 21,
-		"titleImg": "../assets/movies/grown_ups_title.png",
-		"bgImg": "../assets/movies/bg_grown_ups.webp",
-		"previewImg": "../assets/movies/grown_ups.webp",
+		"titleImg": "/aslan_movies_hub/assets/movies/grown_ups_title.png",
+		"bgImg": "/aslan_movies_hub/assets/movies/bg_grown_ups.webp",
+		"previewImg": "/aslan_movies_hub/assets/movies/grown_ups.webp",
 		"video": "https://www.youtube.com/embed/e01NVCveGkg",
 		"title": "Grown Ups",
 		"year": "2010",
@@ -358,9 +358,9 @@
 
 	{
 		"_id": 22,
-		"titleImg": "../assets/movies/guardians_title.png",
-		"bgImg": "../assets/movies/bg_guardians.webp",
-		"previewImg": "../assets/movies/guardians.webp",
+		"titleImg": "/aslan_movies_hub/assets/movies/guardians_title.png",
+		"bgImg": "/aslan_movies_hub/assets/movies/bg_guardians.webp",
+		"previewImg": "/aslan_movies_hub/assets/movies/guardians.webp",
 		"video": "https://www.youtube.com/embed/d96cjJhvlMA",
 		"title": "Guardians of the Galaxy",
 		"year": "2014",
@@ -375,9 +375,9 @@
 
 	{
 		"_id": 23,
-		"titleImg": "../assets/movies/hangover_title.png",
-		"bgImg": "../assets/movies/bg_hangover.webp",
-		"previewImg": "../assets/movies/hangover.webp",
+		"titleImg": "/aslan_movies_hub/assets/movies/hangover_title.png",
+		"bgImg": "/aslan_movies_hub/assets/movies/bg_hangover.webp",
+		"previewImg": "/aslan_movies_hub/assets/movies/hangover.webp",
 		"video": "https://www.youtube.com/embed/96TelFMZwHc",
 		"title": "The Hangover Part III",
 		"year": "2013",
@@ -392,9 +392,9 @@
 
 	{
 		"_id": 24,
-		"titleImg": "../assets/movies/hollywood_title.png",
-		"bgImg": "../assets/movies/bg_hollywood.webp",
-		"previewImg": "../assets/movies/hollywood.webp",
+		"titleImg": "/aslan_movies_hub/assets/movies/hollywood_title.png",
+		"bgImg": "/aslan_movies_hub/assets/movies/bg_hollywood.webp",
+		"previewImg": "/aslan_movies_hub/assets/movies/hollywood.webp",
 		"video": "https://www.youtube.com/embed/ELeMaP8EPAA",
 		"title": "Once Upon a Time in... Hollywood",
 		"year": "2019",
@@ -409,9 +409,9 @@
 
 	{
 		"_id": 25,
-		"titleImg": "../assets/movies/inglourious_title.png",
-		"bgImg": "../assets/movies/bg_inglourious.webp",
-		"previewImg": "../assets/movies/inglourious.webp",
+		"titleImg": "/aslan_movies_hub/assets/movies/inglourious_title.png",
+		"bgImg": "/aslan_movies_hub/assets/movies/bg_inglourious.webp",
+		"previewImg": "/aslan_movies_hub/assets/movies/inglourious.webp",
 		"video": "https://www.youtube.com/embed/KnrRy6kSFF0",
 		"title": "Inglourious Basterds",
 		"year": "2009",
@@ -426,9 +426,9 @@
 
 	{
 		"_id": 26,
-		"titleImg": "../assets/movies/john_wick_title.png",
-		"bgImg": "../assets/movies/bg_john_wick.webp",
-		"previewImg": "../assets/movies/john_wick.webp",
+		"titleImg": "/aslan_movies_hub/assets/movies/john_wick_title.png",
+		"bgImg": "/aslan_movies_hub/assets/movies/bg_john_wick.webp",
+		"previewImg": "/aslan_movies_hub/assets/movies/john_wick.webp",
 		"video": "https://www.youtube.com/embed/qEVUtrk8_B4",
 		"title": "John Wick: Chapter 4",
 		"year": "2023",
@@ -443,9 +443,9 @@
 
 	{
 		"_id": 27,
-		"titleImg": "../assets/movies/joker_title.png",
-		"bgImg": "../assets/movies/bg_joker.webp",
-		"previewImg": "../assets/movies/joker.webp",
+		"titleImg": "/aslan_movies_hub/assets/movies/joker_title.png",
+		"bgImg": "/aslan_movies_hub/assets/movies/bg_joker.webp",
+		"previewImg": "/aslan_movies_hub/assets/movies/joker.webp",
 		"video": "https://www.youtube.com/embed/zAGVQLHvwOY",
 		"title": "Joker",
 		"year": "2019",
@@ -460,9 +460,9 @@
 
 	{
 		"_id": 28,
-		"titleImg": "../assets/movies/kill_bill1_title.png",
-		"bgImg": "../assets/movies/bg_kill_bill1.webp",
-		"previewImg": "../assets/movies/kill_bill1.webp",
+		"titleImg": "/aslan_movies_hub/assets/movies/kill_bill1_title.png",
+		"bgImg": "/aslan_movies_hub/assets/movies/bg_kill_bill1.webp",
+		"previewImg": "/aslan_movies_hub/assets/movies/kill_bill1.webp",
 		"video": "https://www.youtube.com/embed/7kSuas6mRpk",
 		"title": "Kill Bill: Vol. 1",
 		"year": "2003",
@@ -477,9 +477,9 @@
 
 	{
 		"_id": 29,
-		"titleImg": "../assets/movies/kill_bill2_title.png",
-		"bgImg": "../assets/movies/bg_kill_bill2.webp",
-		"previewImg": "../assets/movies/kill_bill2.webp",
+		"titleImg": "/aslan_movies_hub/assets/movies/kill_bill2_title.png",
+		"bgImg": "/aslan_movies_hub/assets/movies/bg_kill_bill2.webp",
+		"previewImg": "/aslan_movies_hub/assets/movies/kill_bill2.webp",
 		"video": "https://www.youtube.com/embed/WTt8cCIvGYI",
 		"title": "Kill Bill: Vol. 2",
 		"year": "2004",
@@ -494,9 +494,9 @@
 
 	{
 		"_id": 30,
-		"titleImg": "../assets/movies/league_title.png",
-		"bgImg": "../assets/movies/bg_league.webp",
-		"previewImg": "../assets/movies/league.webp",
+		"titleImg": "/aslan_movies_hub/assets/movies/league_title.png",
+		"bgImg": "/aslan_movies_hub/assets/movies/bg_league.webp",
+		"previewImg": "/aslan_movies_hub/assets/movies/league.webp",
 		"video": "https://www.youtube.com/embed/ui37YKQ9AC4",
 		"title": "Zack Snyder's Justice League",
 		"year": "2021",
@@ -511,9 +511,9 @@
 
 	{
 		"_id": 31,
-		"titleImg": "../assets/movies/life_of_pi_title.png",
-		"bgImg": "../assets/movies/bg_life_of_pi.webp",
-		"previewImg": "../assets/movies/life_of_pi.webp",
+		"titleImg": "/aslan_movies_hub/assets/movies/life_of_pi_title.png",
+		"bgImg": "/aslan_movies_hub/assets/movies/bg_life_of_pi.webp",
+		"previewImg": "/aslan_movies_hub/assets/movies/life_of_pi.webp",
 		"video": "https://www.youtube.com/embed/3mMN693-F3U",
 		"title": "Life of Pi",
 		"year": "2012",
@@ -528,9 +528,9 @@
 
 	{
 		"_id": 32,
-		"titleImg": "../assets/movies/logan_title.png",
-		"bgImg": "../assets/movies/bg_logan.webp",
-		"previewImg": "../assets/movies/logan.webp",
+		"titleImg": "/aslan_movies_hub/assets/movies/logan_title.png",
+		"bgImg": "/aslan_movies_hub/assets/movies/bg_logan.webp",
+		"previewImg": "/aslan_movies_hub/assets/movies/logan.webp",
 		"video": "https://www.youtube.com/embed/Div0iP65aZo",
 		"title": "Logan",
 		"year": "2017",
@@ -545,9 +545,9 @@
 
 	{
 		"_id": 33,
-		"titleImg": "../assets/movies/lou_title.png",
-		"bgImg": "../assets/movies/bg_lou.webp",
-		"previewImg": "../assets/movies/lou.webp",
+		"titleImg": "/aslan_movies_hub/assets/movies/lou_title.png",
+		"bgImg": "/aslan_movies_hub/assets/movies/bg_lou.webp",
+		"previewImg": "/aslan_movies_hub/assets/movies/lou.webp",
 		"video": "https://www.youtube.com/embed/uLtkt8BonwM",
 		"title": "The Last of Us",
 		"year": "2023",
@@ -562,9 +562,9 @@
 
 	{
 		"_id": 34,
-		"titleImg": "../assets/movies/mobland_title.webp",
-		"bgImg": "../assets/movies/bg_mobland.webp",
-		"previewImg": "../assets/movies/mobland.webp",
+		"titleImg": "/aslan_movies_hub/assets/movies/mobland_title.webp",
+		"bgImg": "/aslan_movies_hub/assets/movies/bg_mobland.webp",
+		"previewImg": "/aslan_movies_hub/assets/movies/mobland.webp",
 		"video": "https://www.youtube.com/embed/qKGgw7Ob5f4",
 		"title": "MobLand",
 		"year": "2025",
@@ -579,9 +579,9 @@
 
 	{
 		"_id": 35,
-		"titleImg": "../assets/movies/mOS_title.png",
-		"bgImg": "../assets/movies/bg_mOS.webp",
-		"previewImg": "../assets/movies/mOS.webp",
+		"titleImg": "/aslan_movies_hub/assets/movies/mOS_title.png",
+		"bgImg": "/aslan_movies_hub/assets/movies/bg_mOS.webp",
+		"previewImg": "/aslan_movies_hub/assets/movies/mOS.webp",
 		"video": "https://www.youtube.com/embed/T6DJcgm3wNY",
 		"title": "Man of Steel",
 		"year": "2013",
@@ -596,9 +596,9 @@
 
 	{
 		"_id": 36,
-		"titleImg": "../assets/movies/neighbors_title.png",
-		"bgImg": "../assets/movies/bg_neighbors.webp",
-		"previewImg": "../assets/movies/neighbors.webp",
+		"titleImg": "/aslan_movies_hub/assets/movies/neighbors_title.png",
+		"bgImg": "/aslan_movies_hub/assets/movies/bg_neighbors.webp",
+		"previewImg": "/aslan_movies_hub/assets/movies/neighbors.webp",
 		"video": "https://www.youtube.com/embed/KrAf5ALLxGI",
 		"title": "Neighbors",
 		"year": "2014",
@@ -613,9 +613,9 @@
 
 	{
 		"_id": 37,
-		"titleImg": "../assets/movies/night_title.webp",
-		"bgImg": "../assets/movies/bg_night.webp",
-		"previewImg": "../assets/movies/night.webp",
+		"titleImg": "/aslan_movies_hub/assets/movies/night_title.webp",
+		"bgImg": "/aslan_movies_hub/assets/movies/bg_night.webp",
+		"previewImg": "/aslan_movies_hub/assets/movies/night.webp",
 		"video": "https://www.youtube.com/embed/FmM2giDwLAE",
 		"title": "Violent Night 2",
 		"year": "2026",
@@ -630,9 +630,9 @@
 
 	{
 		"_id": 38,
-		"titleImg": "../assets/movies/penguin_title.png",
-		"bgImg": "../assets/movies/bg_penguin.webp",
-		"previewImg": "../assets/movies/penguin.webp",
+		"titleImg": "/aslan_movies_hub/assets/movies/penguin_title.png",
+		"bgImg": "/aslan_movies_hub/assets/movies/bg_penguin.webp",
+		"previewImg": "/aslan_movies_hub/assets/movies/penguin.webp",
 		"video": "https://www.youtube.com/embed/DQghiGQi6Lo",
 		"title": "The Penguin",
 		"year": "2024",
@@ -647,9 +647,9 @@
 
 	{
 		"_id": 39,
-		"titleImg": "../assets/movies/pulp_title.png",
-		"bgImg": "../assets/movies/bg_pulp.webp",
-		"previewImg": "../assets/movies/pulp.webp",
+		"titleImg": "/aslan_movies_hub/assets/movies/pulp_title.png",
+		"bgImg": "/aslan_movies_hub/assets/movies/bg_pulp.webp",
+		"previewImg": "/aslan_movies_hub/assets/movies/pulp.webp",
 		"video": "https://www.youtube.com/embed/tGpTpVyI_OQ",
 		"title": "Pulp Fiction",
 		"year": "1994",
@@ -664,9 +664,9 @@
 
 	{
 		"_id": 40,
-		"titleImg": "../assets/movies/rome_title.webp",
-		"bgImg": "../assets/movies/bg_rome.webp",
-		"previewImg": "../assets/movies/rome.webp",
+		"titleImg": "/aslan_movies_hub/assets/movies/rome_title.webp",
+		"bgImg": "/aslan_movies_hub/assets/movies/bg_rome.webp",
+		"previewImg": "/aslan_movies_hub/assets/movies/rome.webp",
 		"video": "https://www.youtube.com/embed/VWSVSPaszJk",
 		"title": "Rome",
 		"year": "2005",
@@ -681,9 +681,9 @@
 
 	{
 		"_id": 41,
-		"titleImg": "../assets/movies/sings_title.png",
-		"bgImg": "../assets/movies/bg_signs.webp",
-		"previewImg": "../assets/movies/signs.webp",
+		"titleImg": "/aslan_movies_hub/assets/movies/sings_title.png",
+		"bgImg": "/aslan_movies_hub/assets/movies/bg_signs.webp",
+		"previewImg": "/aslan_movies_hub/assets/movies/signs.webp",
 		"video": "https://www.youtube.com/embed/dUw26F0WfLg",
 		"title": "Signs",
 		"year": "2002",
@@ -698,9 +698,9 @@
 
 	{
 		"_id": 42,
-		"titleImg": "../assets/movies/sin_city_title.png",
-		"bgImg": "../assets/movies/bg_sin_city.webp",
-		"previewImg": "../assets/movies/sin_city.webp",
+		"titleImg": "/aslan_movies_hub/assets/movies/sin_city_title.png",
+		"bgImg": "/aslan_movies_hub/assets/movies/bg_sin_city.webp",
+		"previewImg": "/aslan_movies_hub/assets/movies/sin_city.webp",
 		"video": "https://www.youtube.com/embed/T2Dj6ktPU5c",
 		"title": "Sin City",
 		"year": "2005",
@@ -715,9 +715,9 @@
 
 	{
 		"_id": 43,
-		"titleImg": "../assets/movies/sin_city2_title.png",
-		"bgImg": "../assets/movies/bg_sin_city2.webp",
-		"previewImg": "../assets/movies/sin_city2.webp",
+		"titleImg": "/aslan_movies_hub/assets/movies/sin_city2_title.png",
+		"bgImg": "/aslan_movies_hub/assets/movies/bg_sin_city2.webp",
+		"previewImg": "/aslan_movies_hub/assets/movies/sin_city2.webp",
 		"video": "https://www.youtube.com/embed/mzLD95f4Ps0",
 		"title": "Sin City: A Dame to Kill For",
 		"year": "2014",
@@ -732,9 +732,9 @@
 
 	{
 		"_id": 44,
-		"titleImg": "../assets/movies/street_title.png",
-		"bgImg": "../assets/movies/bg_street.jpg",
-		"previewImg": "../assets/movies/street.jpeg",
+		"titleImg": "/aslan_movies_hub/assets/movies/street_title.png",
+		"bgImg": "/aslan_movies_hub/assets/movies/bg_street.jpg",
+		"previewImg": "/aslan_movies_hub/assets/movies/street.jpeg",
 		"video": "https://www.youtube.com/embed/U6sbm1OaJb8",
 		"title": "Street Fighter",
 		"year": "2026",
@@ -749,9 +749,9 @@
 
 	{
 		"_id": 45,
-		"titleImg": "../assets/movies/troy_title.png",
-		"bgImg": "../assets/movies/bg_troy.webp",
-		"previewImg": "../assets/movies/troy.webp",
+		"titleImg": "/aslan_movies_hub/assets/movies/troy_title.png",
+		"bgImg": "/aslan_movies_hub/assets/movies/bg_troy.webp",
+		"previewImg": "/aslan_movies_hub/assets/movies/troy.webp",
 		"video": "https://www.youtube.com/embed/znTLzRJimeY",
 		"title": "Troy",
 		"year": "2004",
@@ -766,9 +766,9 @@
 
 	{
 		"_id": 46,
-		"titleImg": "../assets/movies/tulsa_title.webp",
-		"bgImg": "../assets/movies/bg_tulsa.webp",
-		"previewImg": "../assets/movies/tulsa.webp",
+		"titleImg": "/aslan_movies_hub/assets/movies/tulsa_title.webp",
+		"bgImg": "/aslan_movies_hub/assets/movies/bg_tulsa.webp",
+		"previewImg": "/aslan_movies_hub/assets/movies/tulsa.webp",
 		"video": "https://www.youtube.com/embed/aaQSScwZPbA",
 		"title": "Tulsa King",
 		"year": "2022",
@@ -783,9 +783,9 @@
 
 	{
 		"_id": 47,
-		"titleImg": "../assets/movies/vikings_title.png",
-		"bgImg": "../assets/movies/bg_vikings.webp",
-		"previewImg": "../assets/movies/vikings.webp",
+		"titleImg": "/aslan_movies_hub/assets/movies/vikings_title.png",
+		"bgImg": "/aslan_movies_hub/assets/movies/bg_vikings.webp",
+		"previewImg": "/aslan_movies_hub/assets/movies/vikings.webp",
 		"video": "https://www.youtube.com/embed/xdm7Z3TQhDg",
 		"title": "Vikings",
 		"year": "2013",
@@ -800,9 +800,9 @@
 
 	{
 		"_id": 48,
-		"titleImg": "../assets/movies/kong_title.png",
-		"bgImg": "../assets/movies/bg_kong.webp",
-		"previewImg": "../assets/movies/kong.webp",
+		"titleImg": "/aslan_movies_hub/assets/movies/kong_title.png",
+		"bgImg": "/aslan_movies_hub/assets/movies/bg_kong.webp",
+		"previewImg": "/aslan_movies_hub/assets/movies/kong.webp",
 		"video": "https://www.youtube.com/embed/FEGNZETcuAk",
 		"title": "Kong: Skull Island",
 		"year": "2017",
@@ -817,9 +817,9 @@
 
 	{
 		"_id": 49,
-		"titleImg": "../assets/movies/kong_vs_title.png",
-		"bgImg": "../assets/movies/bg_kong_vs.webp",
-		"previewImg": "../assets/movies/kong_vs.webp",
+		"titleImg": "/aslan_movies_hub/assets/movies/kong_vs_title.png",
+		"bgImg": "/aslan_movies_hub/assets/movies/bg_kong_vs.webp",
+		"previewImg": "/aslan_movies_hub/assets/movies/kong_vs.webp",
 		"video": "https://www.youtube.com/embed/odM92ap8_c0",
 		"title": "Godzilla vs. Kong",
 		"year": "2021",
@@ -834,9 +834,9 @@
 
 	{
 		"_id": 50,
-		"titleImg": "../assets/movies/lara_title.png",
-		"bgImg": "../assets/movies/bg_lara.webp",
-		"previewImg": "../assets/movies/lara.webp",
+		"titleImg": "/aslan_movies_hub/assets/movies/lara_title.png",
+		"bgImg": "/aslan_movies_hub/assets/movies/bg_lara.webp",
+		"previewImg": "/aslan_movies_hub/assets/movies/lara.webp",
 		"video": "https://www.youtube.com/embed/8ndhidEmUbI",
 		"title": "Tomb Raider",
 		"year": "2018",
@@ -851,9 +851,9 @@
 
 	{
 		"_id": 51,
-		"titleImg": "../assets/movies/pirate_title.webp",
-		"bgImg": "../assets/movies/bg_pirate.webp",
-		"previewImg": "../assets/movies/pirate.webp",
+		"titleImg": "/aslan_movies_hub/assets/movies/pirate_title.webp",
+		"bgImg": "/aslan_movies_hub/assets/movies/bg_pirate.webp",
+		"previewImg": "/aslan_movies_hub/assets/movies/pirate.webp",
 		"video": "https://www.youtube.com/embed/6i77T6KzYxM",
 		"title": "Pirates of the Caribbean: Dead Men Tell No Tales",
 		"year": "2017",

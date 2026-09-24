@@ -15,11 +15,7 @@ function BlogCard({ blog }) {
 				</h2>
 
 				<div className="d-flex align-items-center mt-auto">
-					<img
-						src={`${process.env.PUBLIC_URL}/${blog.author.img}`}
-						alt="post pic"
-						className="img-fluid post-author-img flex-shrink-0"
-					/>
+					<img src={blog.author.img} alt="post pic" className="img-fluid post-author-img flex-shrink-0" />
 					<div className="post-meta">
 						<p className="post-author-list">{blog.author.name}</p>
 						<p className="post-date">

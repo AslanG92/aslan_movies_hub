@@ -36,11 +36,7 @@ function Banner() {
 				movies.length > 0 &&
 				movies.map((movie) => (
 					<div className="movie" key={movie._id}>
-						<img
-							src={`${process.env.PUBLIC_URL}/${movie.bgImg}`}
-							alt="Background Img"
-							className={`bgImg ${movie.active ? "active" : undefined}`}
-						/>
+						<img src={movie.bgImg} alt="Background Img" className={`bgImg ${movie.active ? "active" : undefined}`} />
 						<div className="container-fluid">
 							<div className="row">
 								<div className="col-lg-6 col-md-12">
