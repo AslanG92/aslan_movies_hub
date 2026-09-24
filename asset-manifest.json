@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/aslan_movies_hub/static/css/main.884e4740.css",
+    "main.js": "/aslan_movies_hub/static/js/main.f75a5b14.js",
+    "static/js/453.a7849d92.chunk.js": "/aslan_movies_hub/static/js/453.a7849d92.chunk.js",
+    "static/media/fotter_bg.webp": "/aslan_movies_hub/static/media/fotter_bg.eedd44d0a1a1de152ca5.webp",
+    "index.html": "/aslan_movies_hub/index.html",
+    "main.884e4740.css.map": "/aslan_movies_hub/static/css/main.884e4740.css.map",
+    "main.f75a5b14.js.map": "/aslan_movies_hub/static/js/main.f75a5b14.js.map",
+    "453.a7849d92.chunk.js.map": "/aslan_movies_hub/static/js/453.a7849d92.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.884e4740.css",
+    "static/js/main.f75a5b14.js"
+  ]
+}
