@@ -1,8 +1,8 @@
 import "./trend.css";
 import { Swiper, SwiperSlide } from "swiper/react";
 import "swiper/css";
-import "swiper/css/pagination";
-import { Autoplay } from "swiper/modules";
+import "swiper/css/navigation"; // Импортируем стили для стрелок
+import { Navigation } from "swiper/modules";
 import { useEffect, useState } from "react";
 import TrendCard from "../components/TrendCard";
 
@@ -20,6 +20,8 @@ function Trend() {
 		fetchData();
 	}, []);
 
+	const comingMovies = slides.filter((slide) => slide.type === "coming");
+
 	return (
 		<section id="trend" className="trend">
 			<div className="container-fluid">
@@ -28,7 +30,7 @@ function Trend() {
 				</div>
 
 				<div className="row">
-					{slides && slides.length > 0 ? (
+					{comingMovies && comingMovies.length > 0 ? (
 						<Swiper
 							breakpoints={{
 								320: {
@@ -49,21 +51,15 @@ function Trend() {
 								},
 							}}
 							spaceBetween={30}
-							autoplay={{
-								delay: 2500,
-								disableOnInteraction: false,
-							}}
-							loop={true}
-							modules={[Autoplay]}
+							navigation={true}
+							modules={[Navigation]}
 							className="trendSwiper"
 						>
-							{slides &&
-								slides.length > 0 &&
-								slides.map((slide) => (
-									<SwiperSlide key={slide._id} className="d-flex align-items-stretch mb-4">
-										<TrendCard slide={slide} />
-									</SwiperSlide>
-								))}
+							{comingMovies.map((slide) => (
+								<SwiperSlide key={slide._id} className="d-flex align-items-stretch mb-4">
+									<TrendCard slide={slide} />
+								</SwiperSlide>
+							))}
 						</Swiper>
 					) : (
 						<div className="text-center w-100 py-5 text-white">Loading movies...</div>

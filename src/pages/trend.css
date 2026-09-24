@@ -6,11 +6,17 @@
 		background-size: cover;
 		width: 240px;
 		height: auto;
+		background: transparent;
+		box-shadow: 0 0 20px rgba(255, 255, 255, 0.4);
 
 		img {
 			width: 100%;
 			display: block;
 			border-radius: 0px;
+		}
+
+		&:hover {
+			box-shadow: 0 0 30px rgba(255, 255, 255, 0.6);
 		}
 	}
 }

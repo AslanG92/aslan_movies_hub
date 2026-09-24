@@ -1,5 +1,4 @@
 import { useEffect, useState } from "react";
-import "./blog.css";
 import BlogCard from "../components/BlogCard";
 
 function Blog() {

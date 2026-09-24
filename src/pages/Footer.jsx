@@ -77,13 +77,13 @@ function Footer() {
 				<div className="copyright">
 					&copy; Copyright{" "}
 					<strong>
-						<span>Aslan Goliev Studio</span>
+						<span>Aslan Goliev</span>
 					</strong>
 					. All Rights Reserved
 				</div>
 
 				<div className="credits">
-					Designed by <a href="#">Aslan Goliev Studio</a>
+					Designed by <strong>Aslan Goliev</strong>
 				</div>
 			</div>
 		</footer>

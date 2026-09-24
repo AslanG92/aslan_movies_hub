@@ -47,7 +47,7 @@ function Schedule() {
 		<section id="schedule" className="schedule">
 			<div className="container-fluid">
 				<div className="row">
-					<h2 className="section-title">Select your movie </h2>
+					<h2 className="section-title">choose and watch</h2>
 				</div>
 
 				<div className="row">
@@ -69,7 +69,11 @@ function Schedule() {
 				</div>
 
 				<div className="row mt-5">
-					{movies && movies.length > 0 && movies.map((movie) => <Card key={movie._id} movie={movie} />)}
+					{movies &&
+						movies.length > 0 &&
+						movies
+							.filter((movie) => movie.type === "released")
+							.map((movie) => <Card key={movie._id} movie={movie} />)}
 				</div>
 			</div>
 		</section>

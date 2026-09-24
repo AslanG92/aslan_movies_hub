@@ -69,6 +69,11 @@
 	text-align: center;
 	padding-top: 30px;
 	color: #fff;
+
+	strong {
+		text-decoration: underline;
+		color: #fa0101;
+	}
 }
 
 .footer .credits {
@@ -76,6 +81,11 @@
 	text-align: center;
 	font-size: 13px;
 	color: #fff;
+
+	strong {
+		text-decoration: underline;
+		color: #fa0101;
+	}
 }
 
 .footer .credits a {
