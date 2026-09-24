@@ -1,46 +1,46 @@
 [
 	{
 		"_id": 1,
-		"thumbnail": "/aslan_movies_hub/assets/assets/blogs/5D.webp",
+		"thumbnail": "/aslan_movies_hub/assets/blogs/5D.webp",
 		"category": "5D Cinema",
 		"title": "5D cinemas provide visitors with an unforgettable experience",
 		"author": {
 			"name": "John Doe",
-			"img": "/aslan_movies_hub/assets/assets/blogs/5D_ava.webp"
+			"img": "/aslan_movies_hub/assets/blogs/5D_ava.webp"
 		},
 		"date": "May 23 2025"
 	},
 
 	{
 		"_id": 2,
-		"thumbnail": "/aslan_movies_hub/assets/assets/blogs/disney.webp",
+		"thumbnail": "/aslan_movies_hub/assets/blogs/disney.webp",
 		"category": "Disney",
 		"title": "Visiting Disney is like entering a magical world.",
 		"author": {
 			"name": "Alex Dounger",
-			"img": "/aslan_movies_hub/assets/assets/blogs/disney_ava.webp"
+			"img": "/aslan_movies_hub/assets/blogs/disney_ava.webp"
 		},
 		"date": "March 3 2026"
 	},
 	{
 		"_id": 3,
-		"thumbnail": "/aslan_movies_hub/assets/assets/blogs/imax.webp",
+		"thumbnail": "/aslan_movies_hub/assets/blogs/imax.webp",
 		"category": "IMAX Cinemas",
 		"title": "IMAX cinemas offer the highest quality and immersion in what's happening on screen.",
 		"author": {
 			"name": "Brad Smit",
-			"img": "/aslan_movies_hub/assets/assets/blogs/imax_ava.webp"
+			"img": "/aslan_movies_hub/assets/blogs/imax_ava.webp"
 		},
 		"date": "April 8 2026"
 	},
 	{
 		"_id": 4,
-		"thumbnail": "/aslan_movies_hub/assets/assets/blogs/vegas1.webp",
+		"thumbnail": "/aslan_movies_hub/assets/blogs/vegas1.webp",
 		"category": "Vegas sphere",
 		"title": "It is a revolutionary music and entertainment venue in Las Vegas (Paradise, Nevada)!!!!!!!!!",
 		"author": {
 			"name": "John Doe",
-			"img": "/aslan_movies_hub/assets/assets/blogs/vegas_ava.webp"
+			"img": "/aslan_movies_hub/assets/blogs/vegas_ava.webp"
 		},
 		"date": "May 23 2025"
 	}
