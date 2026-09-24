@@ -10,7 +10,7 @@ function Schedule() {
 	const [filters, setFilters] = useState(filterList);
 
 	const fetchData = () => {
-		fetch("../../public/data/movieData.json")
+		fetch("/aslan_movies_hub/data/movieData.json")
 			.then((res) => res.json())
 			.then((data) => setData(data))
 			.catch((e) => console.log(e.message));

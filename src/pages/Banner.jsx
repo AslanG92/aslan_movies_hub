@@ -9,7 +9,7 @@ function Banner() {
 	const [movies, setMovies] = useState([]);
 
 	const fetchData = () => {
-		fetch("../../public/data/movieData.json")
+		fetch("/aslan_movies_hub/data/movieData.json")
 			.then((res) => res.json())
 			.then((data) => setMovies(data))
 			.catch((e) => console.log(e.message));

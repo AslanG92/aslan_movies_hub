@@ -5,7 +5,7 @@ function Blog() {
 	const [blogs, setBlogs] = useState([]);
 
 	const fetchData = () => {
-		fetch("../../public/data/blogData.json")
+		fetch("/aslan_movies_hub/data/blogData.json")
 			.then((res) => res.json())
 			.then((data) => setBlogs(data))
 			.catch((e) => console.log(e.message));
