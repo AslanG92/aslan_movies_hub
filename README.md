@@ -8,5 +8,3 @@ The website is very simple, so I deliberately didn't create a full web-app like 
 To be more precise, there is some adaptability for screens of different sizes since I used bootstrap, but I didn’t configure it carefully like in my other projects.
 
 ## I want to emphasize that I created this project to test the React and Bootstrap integration.
-
-And I must say I don't really like using bootstrap because I'm used to having complete and total control in development.
